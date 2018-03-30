@@ -1,7 +1,7 @@
 title: A propos
 order: 5
-icon: icon-link2
-summary: L’Observatoire des Ecosystèmes Pélagiques Tropicaux exploités de l’IRD a pour vocation principale la collecte, la validation, l’archivage et l’analyse des données de la pêche thonière tropicale française dans les océans Indien et Atlantique..
+icon: icon-attachment
+summary: Les mentions légales
 slug: about
 date: 2018-03-29
 modified: 2018-03-29
