@@ -1,12 +1,17 @@
 title: A propos
 order: 5
 icon: icon-attachment
-summary: Les mentions légales
+summary: Contact et mentions légales
 slug: about
 date: 2018-03-29
 modified: 2018-03-29
 lang: fr
 
+
+## Contact
+
+Mèl: ob7@ird.fr
+Adresse: Avenue Jean Monnet - 34203 Sète Cedex - France
 
 ## Mentions légales
 
@@ -31,7 +36,7 @@ Observatoire des Ecosystèmes Pélagiques Tropicaux exploités est hébergé par
 
 ### Concepteur / Créateur
 
-L’ensemble du site Observatoire des Ecosystèmes Pélagiques Tropicaux exploités, conception, et applications, a été créé et développé et est administré par OB7. Pour les contacter, utilisez le formulaire de contact.
+L’ensemble du site Observatoire des Ecosystèmes Pélagiques Tropicaux exploités, conception, et applications, a été créé et développé et est administré par OB7. Pour les contacter, utilisez l'adresse mèl ci-dessus.
 
 	Ob7, Observatoire des Ecosystèmes Pélagiques Tropicaux exploités
 	Responsable de l’Ob7 : Pascal Bach
