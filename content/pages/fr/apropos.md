@@ -10,8 +10,8 @@ lang: fr
 
 ## Contact
 
-Mèl: ob7@ird.fr
-Adresse: Avenue Jean Monnet - 34203 Sète Cedex - France
+	Mèl: ob7@ird.fr
+	Adresse: Avenue Jean Monnet - 34203 Sète Cedex - France
 
 ## Mentions légales
 
