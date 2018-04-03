@@ -163,11 +163,8 @@ ABOUT = {
   'image': '/images/about/objectif.png',
   'mail': 'ob7@ird.fr',
   # keep it a string if you dont need multiple languages
-  'text': {
-    'en': '',
-    'fr': ''
-  },
-  'link': 'contact.html',
+  'text': 'Avenue Jean Monnet,<br/> CS 30171, 34203 Sète cedex, <br/>France',
+  #'link': 'contact.html',
   # the address is also taken for google maps
   'address': 'Avenue Jean Monnet,<br/> CS 30171, 34203 Sète cedex, <br/>France ',
   'phone': '+33(0) 4 99 57 32 00'
@@ -183,7 +180,7 @@ PAGE_ORDER_BY = 'order'
 
 MENUITEMS = [
 #  ('Archive', 'archives.html'),
-  ('Contact', 'contact.html')
+#  ('Contact', 'contact.html')
 ]
 
 DIRECT_TEMPLATES = [
