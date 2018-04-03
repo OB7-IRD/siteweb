@@ -85,65 +85,88 @@ HERO = [
   {
     'image': '/images/hero/background-1.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr': '', 'en': ''},
+    'title': {
+        'fr': 'Mesure d\'un listao <i>Katsuwonus pelamis</i>', 
+        'en': 'Measurement of a skipjack  <i>Katsuwonus pelamis</i>'
+        },
     # keep it a string if you dont need multiple languages
-    'text': {'fr': '', 'en': ''},
+    'text': {
+        'fr': '&copy; RTTP-IO/IOTC', 
+        'en': '&copy; RTTP-IO/IOTC'
+        },
     'links': []
   },
   {
     'image': '/images/hero/background-2.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {'fr':'Tortue marine aux Seychelles','en':'Sea turtle in Seychelles'},
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {'fr':'&copy; René Mattes','en':'&copy; René Mattes'},
     'links': []
   },
   {
     'image': '/images/hero/background-3.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {'fr':'Un requin-baleine <i>Rhincodon typus</i>','en':'Whale shark <i>Rhincodon typus</i>'},
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {'fr':'&copy; W Osborn (AIMS)','en':'&copy; W Osborn (AIMS)'},
     'links': []
   },
   {
     'image': '/images/hero/background-4.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {
+        'fr':'Capture d\'un albacore <i>Thunnus albacares</i>',
+        'en':'Catch of a yellowfin <i>Thunnus albacares</i>'
+        },
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {
+        'fr': '&copy; RTTP-IO/IOTC/J.Million', 
+        'en': '&copy; RTTP-IO/IOTC/J.Million', 
+        },
     'links': []
   },
   {
     'image': '/images/hero/background-5.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {'fr':'Un banc de thons','en':'A school of tuna'},
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {'fr':'&copy; IRD-Ifremer/M.Taquet','en':'&copy; IRD-Ifremer/M.Taquet'},
     'links': []
   },
   {
     'image': '/images/hero/background-6.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {'fr':
+        'Un banc de thon sous un dispositif de concentration de pêche (DCP)',
+        'en':'A school of tuna under a fishing aggregating device (FAD)'},
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {'fr':'&copy; ISSF','en':'&copy; ISSF'},
     'links': []
   },
   {
     'image': '/images/hero/background-7.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {'fr':'Senneur : MEN GOE','en':'Purse seiner: MEN GOE'},
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {
+        'fr': '&copy; Inconnu', 
+        'en': '&copy; Unknown'
+        },
     'links': []
   },
   {
     'image': '/images/hero/background-8.jpg',
     # keep it a string if you dont need multiple languages
-    'title': {'fr':'','en':''},
+    'title': {
+        'fr': 'Mesure d\'un patudo <i>Thunnus obesus</i>', 
+        'en': 'Measurement of a bigeye  <i>Thunnus obesus</i>'
+        },
     # keep it a string if you dont need multiple languages
-    'text': {'fr':'','en':''},
+    'text': {
+        'fr': '&copy; RTTP-IO/IOTC', 
+        'en': '&copy; RTTP-IO/IOTC'
+        },
     'links': []
   }
 ]
@@ -196,6 +219,7 @@ DIRECT_TEMPLATES = [
 # setup disqus
 DISQUS_SHORTNAME = ''
 DISQUS_ON_PAGES = False # if true its just displayed on every static page, like this you can still enable it per page
+DISQUS_ON_ARTICLES= False # if true its just displayed on every article
 
 # setup google maps
 #GOOGLE_MAPS_KEY = ''
