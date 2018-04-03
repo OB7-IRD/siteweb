@@ -23,7 +23,7 @@ Concernant la pêche à la senne le système d’information comprend :
 - La collecte des bons de débarquements établis par les conserveries
 - Le suivi de la filière du marché local
 - La collecte de données d’observation à bord par des observateurs scientifiques
-- La récupération des données VMS auprès de l’institution de référence (SNSP)
+- La récupération des données VMS auprès de l’institution de référence (CNSP)
 
 Concernant la pêche à la palangre réunionnaise le système comprend :
 
