@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Julien Lebranchu'
-SITENAME = 'Observatoire des Ecosystèmes Pélagiques Tropicaux exploités'
+SITENAME = 'Observatoire des Écosystèmes Pélagiques Tropicaux exploités'
 SITEURL = ''
 
 STATIC_PATHS = ['images', 'pdfs']
