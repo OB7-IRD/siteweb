@@ -39,5 +39,5 @@ Le système est actuellement utilisé par les organismes suivants : l’IRD, le
 
 ## Liens
 
-1. La forge du projet: [https://gitlab.com/ultreiaio/ird-observe](https://gitlab.com/ultreiaio/ird-observe])
+1. La forge du projet: [https://gitlab.com/ultreiaio/ird-observe](https://gitlab.com/ultreiaio/ird-observe)
 2. La documentation du projet: [https://ultreiaio.gitlab.io/ird-observe/](https://ultreiaio.gitlab.io/ird-observe/)

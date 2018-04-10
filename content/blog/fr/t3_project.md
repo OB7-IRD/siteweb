@@ -25,5 +25,5 @@ T3+ est un système d’information intégré dans le sens où il assure à la f
 
 ## Liens
 
-1. La forge du projet: [https://gitlab.com/ultreiaio/ird-t3/](https://gitlab.com/ultreiaio/ird-t3/])
+1. La forge du projet: [https://gitlab.com/ultreiaio/ird-t3/](https://gitlab.com/ultreiaio/ird-t3/)
 2. La documentation du projet: [https://t3.ultreia.io/](https://t3.ultreia.io/)
