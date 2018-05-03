@@ -11,7 +11,7 @@ Le projet **T3+** s'inscrit dant le cadre notre mission de suivi statistique de 
 Pour cela plusieurs types d’informations sont collectés :
 
 - Journaux de bord (ou logbooks) : Ils donnent des informations sur les poids totaux pêchés, par catégories commerciales (espèce et classe de taille). Les informations offrent une couverture presque exhaustive mais approximative, surtout concernant la composition spécifique.
-- Plans de cuve (ou chargement) : Documents permettant de faire la correspondance entre cuves et coups de pêche géolocalisés. Ils permettent d’établir le plan d’échantillonnage des cuves en sélectionnant des échantillons provenant d’une même strate (au sens de Pallarés & Hallier 1997),
+- Plans de cuve (ou chargement) : Documents permettant de faire la correspondance entre cuves et coups de pêche géolocalisés. Ils permettent d’établir le plan d’échantillonnage des cuves en sélectionnant des échantillons provenant d’une même strate (au sens de Pallarés & Hallier 1997).
 - Enquêtes au débarquement (ou échantillons) : Menées aux  principaux ports de débarquements (Abidjan, Dakar, Victoria et Antsiranana), elles couvrent l'ensemble des débarquements et consistent en des échantillonnages de taille et de composition spécifique réalisés sur certaines cuves des thoniers au cours du débarquement. Elles fournissent des informations fiables mais sur une fraction seulement des débarquements.
 
 On croise ensuite ces données pour en déduire :

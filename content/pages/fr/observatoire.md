@@ -1,14 +1,14 @@
 ﻿title: L'observatoire
 order: 1
 icon: icon-point-of-interest
-summary: L'Observatoire des Écosystèmes Pélagiques Tropicaux exploités de l'IRD a pour vocation principale la collecte, la validation, l'archivage et l'analyse des données de la pêche thonière tropicale française dans les océans Indien et Atlantique.
+summary: L'Observatoire des Écosystèmes Pélagiques Tropicaux exploités de l'IRD a pour vocation principale la collecte, la validation, l'archivage et l'analyse des données de la pêche thonière tropicale française dans les océans indien et atlantique.
 slug: observatory
 date: 2018-03-29
 modified: 2018-04-05
 lang: fr
 
 ## Contexte
-Les poissons grands pélagiques, dont les thons, font l'objet d'une ressource exploitée majeure de l'océan tropical mondial. L’Europe participe activement à cette exploitation et s’affiche comme le 2e producteur mondial de thonidés majeurs notamment à partir des flottilles de senneurs français et espagnols présents dans les océans atlantique et indien. Ces thonidés sont des grands migrateurs et occupent des eaux sous juridiction nationale (les zones économiques exclusives, ZEE, des États côtiers) et les eaux internationales. Pour ces deux océans, la gestion de ces ressources chevauchantes est menée par des commissions internationales, la Commission Internationale de Conservation des Thonidés de l’Atlantique ([CICTA][]) et la Commission des Thons de l’Océan Indien ([CTOI][]). Dans ce cadre, chaque pays pêcheur a la charge du suivi des statistiques de pêche de ses unités de pêche.
+Les poissons grands pélagiques, dont les thons, font l'objet d'une ressource exploitée majeure de l'océan tropical mondial. L’Europe participe activement à cette exploitation et s’affiche comme le 2e producteur mondial de thonidés majeurs notamment à partir des flottilles de senneurs français et espagnols présents dans les océans atlantique et indien. Ces thonidés sont des grands migrateurs et occupent des eaux sous juridiction nationale (les zones économiques exclusives (ZEE), des États côtiers) et les eaux internationales. Pour ces deux océans, la gestion de ces ressources chevauchantes est menée par des commissions internationales, la Commission Internationale de Conservation des Thonidés de l’Atlantique ([CICTA][]) et la Commission des Thons de l’Océan Indien ([CTOI][]). Dans ce cadre, chaque pays pêcheur a la charge du suivi des statistiques de pêche de ses unités de pêche.
 
 ## Objectif
 

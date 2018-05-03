@@ -50,13 +50,13 @@ DEFAULT_LANG = 'fr'
 LOCALE = 'fr_FR'
 
 # i18n
-# I18N_SUBSITES = {
-#   'en': {
-#     'PAGE_PATHS': ['pages/en'],
-#     'ARTICLE_PATHS': ['blog/en'],
-#     'LOCALE': 'en_UK'
-#   }
-# }
+I18N_SUBSITES = {
+  'en': {
+    'PAGE_PATHS': ['pages/en'],
+#    'ARTICLE_PATHS': ['blog/en'],
+    'LOCALE': 'en_UK'
+  }
+}
 
 # logo path, needs to be stored in PATH Setting
 LOGO = '/images/logo.svg'
