@@ -1,9 +1,23 @@
-image: python:2.7-alpine
+image: ubuntu:latest
 
-pages:
+before_script:
+- apt update -qq && apt install -y -qq git python-pip
+- git submodule update --init
+- pip install virtualenv -q
+- virtualenv pelican
+- source pelican/bin/activate
+- pip install -q -r requirements.txt
+
+build website:
+  stage: build
   script:
-  - pip install -r requirements.txt
-  - pelican -s publishconf.py
-  artifacts:
-    paths:
-    - public/
+  - pelican content -o output -s pelicanconf.py
+  
+deploy website:
+  stage: deploy
+  only:
+  - master
+  script:
+  - pelican content -o output -s publishconf.py
+  - apt install -y -qq lftp
+  - lftp $FTP_SERVER -u $FTP_USER,$FTP_PASS -e "mirror -R output/ / ; quit"
